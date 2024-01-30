@@ -1,7 +1,7 @@
 # FarmCraft-Mod
 ### A mod for all your farming needs.
 ***
-_Disclaimer; I do not own rights to any of these mods, except UnderMusic, which doesn't appear on themodlist._
+_Disclaimer; I do not own rights to any of these mods, except UnderMusic, which doesn't appear on the mod list._
 ***
 ## Mod list: 
 1. Farmer's Delight

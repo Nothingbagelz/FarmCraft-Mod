@@ -1,7 +1,22 @@
-# FarmCraft-Mod
-### A mod for all your farming needs.
+# FarmCraft Modpack
+### A mod for all your farming and cooking needs.
 ***
-_Disclaimer; I do not own rights to any of these mods, except UnderMusic, which doesn't appear on the mod list._
+### Information
+FarmCraft is a minecraft modpack where you can plant crops, cook food, tame pets, ride beasts, and have fun.
+FarmCraft has the Essential mod downloaded, which is a mod that allows the user to play
+locally with their friend.
+Additionally, a lot of building materials and quality of life features have been added, such as
+Windows, Connected Glass, Waystones, Minimap, Shaders(can be disabled), and a lot more.
+***
+_Disclaimer; I do not own rights to any of these mods, except UnderMusic.
+Additionally, this modpack has over 71 mods, so using a low-ended device is not reccomended.
+All the mods also run on forge 1.19.2._
+***
+### Here are a few photos of things that have been built using this mod:
+![image (12)](https://github.com/Nothingbagelz/FarmCraft-Mod/assets/156716874/c041c863-7141-4157-a61a-59ca8f10f202)
+![image (11)](https://github.com/Nothingbagelz/FarmCraft-Mod/assets/156716874/58651102-0e06-4a1d-bc54-d5dc8caf9db2)
+![image (6)](https://github.com/Nothingbagelz/FarmCraft-Mod/assets/156716874/71cb966f-9667-47cb-ad37-31322be5aeb2)
+### And much more!
 ***
 ## Mod list: 
 1. Farmer's Delight
@@ -29,12 +44,12 @@ _Disclaimer; I do not own rights to any of these mods, except UnderMusic, which 
 23. Finally Farmable Dyes
 24. GeckoLib
 25. Patchouli
-26. Mythic Mounts (Forge)
+26. Mythic Mounts
 27. Dynamic Trees
 28. Bookshelf
 29. Botany Pots
 30. Botany Trees
-31. TerraBlender (Forge)
+31. TerraBlender
 32. Biomes O' Plenty
 33. Dynamic Trees - Biomes O' Plenty
 34. Dynamic Trees +
@@ -44,7 +59,7 @@ _Disclaimer; I do not own rights to any of these mods, except UnderMusic, which 
 38. Sophisticated Backpacks
 39. JourneyMap
 40. Aquaculture 2
-41. Aquaculture Delight (A Farmer's Delight Add-on)
+41. Aquaculture Delight
 42. Ender's Delight
 43. Nether's Delight
 44. Ocean's Delight
@@ -53,35 +68,28 @@ _Disclaimer; I do not own rights to any of these mods, except UnderMusic, which 
 47. Alex's Mobs
 48. Alex's Delight
 49. SuperMartijn642's Core Lib
-50. Fusion (Connected Textures)
+50. Fusion
 51. Farmer's Delight: CookBook Reforged
 52. AlcoCraft+
 53. Macaw's Windows
 54. V-Tweaks
-55. Clear+Glass+Pack+1.19.zip
-56. OptiFine_1.19.2_HD_U_I2.jar
+55. Clear Glass Pack 1.19.2
+56. OptiFine
 57. The Aether
-58. Aether Delight (A Farmer's Delight Add-on)
+58. Aether Delight
 59. MrCrayfish's Furniture Mod
 60. Macaw's Lights and Lamps
 61. Domestication Innovation
 62. Framework
-63. Jade 🔍
+63. Jade
 64. Euphoria Patches
 65. Dynamic Lights
 66. FPS Reducer
 67. Cupboard
-68. Better Fps - Render Distance[Forge]
-69. FPS optimizer
+68. Better Fps - Render Distance
+69. FPS Optimizer
 70. FPS Monitor
 71. UnderMusic
-
 ***
-### Here are a few photos of things that have been built using this mod:
-![image (12)](https://github.com/Nothingbagelz/FarmCraft-Mod/assets/156716874/c041c863-7141-4157-a61a-59ca8f10f202)
-![image (11)](https://github.com/Nothingbagelz/FarmCraft-Mod/assets/156716874/58651102-0e06-4a1d-bc54-d5dc8caf9db2)
-![image (6)](https://github.com/Nothingbagelz/FarmCraft-Mod/assets/156716874/71cb966f-9667-47cb-ad37-31322be5aeb2)
-
-### And much more!
+### I hope you enjoy the mod, as I personally put a lot of time and effort into it.
 ***
-### I hope you enjoy the mod, as I personally put time and effort into it.

@@ -92,5 +92,5 @@ All the mods only run on Forge 1.19.2, that I know of._
 70. FPS Monitor
 71. UnderMusic
 ***
-### I hope you find the modpack enjoyable, as I spent my own time and effort to into it.
+### I hope you find the modpack enjoyable, as I put my own time and effort to into it.
 ***
